@@ -1,0 +1,6 @@
+{
+  "name": "Lucky Wheel",
+  "description": "A dynamic spinning wheel for random selection with physics-based animation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
